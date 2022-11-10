@@ -1,2 +1,2 @@
-# alien_ivasion_python
+# alien_invasion_python
 Alien invasion game using pygame
